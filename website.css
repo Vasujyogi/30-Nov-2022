@@ -1,0 +1,58 @@
+.bgimg{
+    background-image:url("https://res.cloudinary.com/dfmkbhcdt/image/upload/v1669707032/yangskitchen_home_kguybi.jpg") ;
+    background-size: cover;
+    height:600px;
+}
+.head{
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    padding: 10px;
+}
+.head1{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+.para{
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+.navbar-brand{
+    text-align: left;
+}
+.button1{
+    text-align: center;
+    height: 80px;
+    width: 200px;
+    padding-top: 15px;
+}
+.button1:hover{
+    background-color: lightgrey;
+    color: black;
+}
+.button2:hover{
+    background-color: lightgrey;
+    color: black;
+}
+.button2{
+    text-align: center;
+    height: 90px;
+    width: 300px;
+    padding-top: 15px;
+
+}
+.stylelogo{
+    text-align: center;
+    height: 100px;
+}
+.bgimg2{
+    text-align: center;
+    height:150px ;
+}
